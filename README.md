@@ -1,2 +1,3 @@
-# DailyTasks
-Created for tracking daily tasks
+# Daily Tasks
+
+This Repository keeps track of daily tasks/Activities performed
